@@ -1,5 +1,6 @@
-import './pag.css'
-import Arcade from './assets/Arcade.svg'
+import './PrincipalPage.css'
+import Arcade from '../../assets/svg/Arcade.svg'
+
 
 function Inicio() {
     return (
